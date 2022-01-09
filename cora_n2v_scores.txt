@@ -1,2 +1,4 @@
 Macro F1: 0.4998159322630728
 Micro F1: 0.999264
+
+Accuracy of Link Prediction :0.999308
